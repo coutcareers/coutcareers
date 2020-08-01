@@ -10,3 +10,5 @@ We are cout careers !!!
 - ⚡ Fun fact: We have a joke on GitHub, but let me push it before you can pull it.
 
 
+![Cout Career's github stats](https://github-readme-stats.vercel.app/api?username=coutcareers&count_private=true)
+
